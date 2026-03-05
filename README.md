@@ -16,4 +16,4 @@ A simple C program where the computer generates a random number and the player t
 
 ## Author
 Tinu Hooda
-BCA Student
+(BCA Student)
